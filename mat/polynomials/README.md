@@ -21,7 +21,7 @@
           - Taking the square root and subtracting $b \over 2a$ gives the Quadratic Formula:
             - $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
       - Practise this derivation, line by line
-  2. Complete The Square (without fractions): `Check me...!`
+  2. Complete The Square (without fractions):
       - Multiply each side by $4a$ and Complete The Square by adding $b^2 - 4ac$ to both sides
           - Giving, $4a^2x^2 + 4abx + b^2 = b^2 - 4ac$
           - Contract the binomial square, $(2ax + b)^2 = b^2 - 4ac$
