@@ -26,6 +26,24 @@
           - Giving, $4a^2x^2 + 4abx + b^2 = b^2 - 4ac$
           - Contract the binomial square, $(2ax + b)^2 = b^2 - 4ac$
           - Square root and solve for $x$, with $2ax + b = \pm \sqrt{b^2-4ac}$
+  3. By Substitution (Change of Variables):
+      - Put the equation in the form $u^2 = s$
+        - Substituting $x = u - {b \over 2a}$ into $ax^2 + bx + c = 0$
+          - Expanding the products, combining the like terms and solving for $u^2$
+          - $a(u - {b \over 2a})^2 + b(u - {b \over 2a}) + c = 0$
+          - $au^2 +{4ac - b^2 \over 4a} = 0$
+          - $u^2 = {b^2 - 4ac \over 4a^2}$
+        - Substituting $x = u - {b \over 2a}$ back gives us the Quadratic Formula
+  4. By Algebraic Identities:
+      - Lets the roots of $ax^2 + bx + c = 0$ be $\alpha$ and $\beta$
+      - The following is a valid identity for any two complex numbers:
+        - $(\alpha - \beta)^2 = (\alpha + \beta)^2 - 4\alpha\beta$
+        - Hence, $\alpha - \beta = \pm \sqrt{(\alpha + \beta)^2 - 4\alpha\beta}$
+      - Since $a \ne 0$, we can divide our original polynomial by $a$ to obtain a monic polynomial with the same roots
+        - Note: a monic polynomial is one where the coefficient of the highest power is $1$
+        - Hence, $x^2 + {b \over a}x + {c \over a} = 0$
+          - Continue...
+      
 - For given coefficients, the solutions correspond to the roots of the graphed equation
   - More on this...
 
@@ -36,3 +54,4 @@
 ## Sources
 - https://en.wikipedia.org/wiki/Quadratic_formula
 - https://en.wikipedia.org/wiki/Completing_the_square
+- https://en.wikipedia.org/wiki/Monic_polynomial
