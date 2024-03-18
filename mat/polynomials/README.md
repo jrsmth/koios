@@ -34,22 +34,11 @@
           - $au^2 +{4ac - b^2 \over 4a} = 0$
           - $u^2 = {b^2 - 4ac \over 4a^2}$
         - Substituting $x = u - {b \over 2a}$ back gives us the Quadratic Formula
-  4. By Algebraic Identities:
-      - Lets the roots of $ax^2 + bx + c = 0$ be $\alpha$ and $\beta$
-      - The following is a valid identity for any two complex numbers:
-        - $(\alpha - \beta)^2 = (\alpha + \beta)^2 - 4\alpha\beta$
-        - Hence, $\alpha - \beta = \pm \sqrt{(\alpha + \beta)^2 - 4\alpha\beta}$
-      - Since $a \ne 0$, we can divide our original polynomial by $a$ to obtain a monic polynomial with the same roots
-        - Note: a monic polynomial is one where the coefficient of the highest power is $1$
-        - Hence, $x^2 + {b \over a}x + {c \over a} = 0$
-          - Continue...
-      
 - For given coefficients, the solutions correspond to the roots of the graphed equation
-  - More on this...
 
 ## Completing The Square
 - Like the Quadratic Formula, Completing The Square gives us a method of solving quadratic equations
-
+- It is a way of converting a polynomial of the form $ax^2 + bx + c$ into $a(x - h)^2 + k$
 
 ## Sources
 - https://en.wikipedia.org/wiki/Quadratic_formula
