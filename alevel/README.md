@@ -1,6 +1,5 @@
 # Maths A-Level
-*OP MALLORY ~ Knocking on the door of University* <br>
-*Past paper attempts with thorough review and write-up of lessons-learnt*
+*OP MALLORY ~ Knocking on the door of University ~ Past papers w/thorough review & write-up of lessons-learnt*
 
 ## Content
 * [Algebra]()
